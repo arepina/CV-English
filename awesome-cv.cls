@@ -493,11 +493,11 @@
 % Define a section for CV
 % Usage: \cvsection{<section-title>}
 \newcommand{\cvsection}[1]{%
-  \par\addvspace{1.5ex}
+  \par\addvspace{0ex}
   \phantomsection{}
   \sectionstyle{#1}
   \color{gray}\vhrulefill{0.9pt}
-  \par\nobreak\addvspace{1ex}
+  \par\nobreak\addvspace{-1ex}
 }
 
 % Define a subsection for CV
@@ -594,7 +594,7 @@
 
 % Define an environment for cvitems(for cventry)
 \newenvironment{cvitems}{%
-  \vspace{-4mm}
+  \vspace{-5mm}
   \begin{justify}
   \begin{itemize}[leftmargin=2ex, nosep, noitemsep]
     \setlength{\parskip}{0pt}
@@ -602,7 +602,7 @@
 }{%
   \end{itemize}
   \end{justify}
-  \vspace{-2mm}
+  \vspace{-5mm}
 }
 
 
