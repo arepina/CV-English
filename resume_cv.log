@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.20)  19 JUN 2017 20:29
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.20)  28 SEP 2017 17:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -861,19 +861,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
  []
 
 ) (./cv-sections/skills.tex
-Overfull \hbox (47.88573pt too wide) in alignment at lines 11--39
+Overfull \hbox (133.60573pt too wide) in alignment at lines 11--35
 [] [] 
  []
 
 ) (./cv-sections/experience.tex) (./cv-sections/extracurricular.tex
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 52.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 52.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 52.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 52.
+(babel)             in language  on input line 39.
  [1
 
 ])
