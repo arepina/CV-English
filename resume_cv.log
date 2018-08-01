@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.20)  14 JUL 2018 16:06
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.20)  1 AUG 2018 17:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -865,37 +865,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
 ) (./cv-sections/skills.tex
 Overfull \hbox (133.60573pt too wide) in alignment at lines 11--35
 [] [] 
  []
 
 ) (./cv-sections/experience.tex
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
-
- []
-
+) (./cv-sections/extracurricular.tex
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 111.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 111.
-[1
+(babel)             in language  on input line 26.
+ [1
 
-]) (./cv-sections/extracurricular.tex) (./cv-sections/extra.tex)
+])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 81.
@@ -907,14 +908,13 @@ Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 81.
  [2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
-
-(./resume_cv.aux)
+ (./resume_cv.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 81.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 81.
  ) 
 Here is how much of TeX's memory you used:
- 28438 strings out of 493591
- 490618 string characters out of 6143545
+ 28435 strings out of 493591
+ 490569 string characters out of 6143545
  619702 words of memory out of 5000000
  31560 multiletter control sequences out of 15000+600000
  9123 words of font info for 72 fonts, out of 8000000 for 9000
