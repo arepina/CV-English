@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.20)  1 AUG 2018 17:18
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.20)  26 OCT 2018 11:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -744,15 +744,15 @@ LaTeX Info: Redefining \selectfont on input line 64.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
-* v-part:(T,H,B)=(42.67912pt, 745.46222pt, 56.9055pt)
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(28.45274pt, 759.6886pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=483.69687pt
-* \textheight=745.46222pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-66.59087pt
+* \textwidth=512.14963pt
+* \textheight=759.6886pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -871,7 +871,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
  []
 
 ) (./cv-sections/skills.tex
-Overfull \hbox (133.60573pt too wide) in alignment at lines 11--35
+Overfull \hbox (130.76028pt too wide) in alignment at lines 11--35
 [] [] 
  []
 
@@ -887,13 +887,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
 ) (./cv-sections/extracurricular.tex
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 53.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 53.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 53.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 53.
  [1
 
 ])
@@ -915,7 +915,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 81.
 Here is how much of TeX's memory you used:
  28435 strings out of 493591
  490569 string characters out of 6143545
- 619702 words of memory out of 5000000
+ 620700 words of memory out of 5000000
  31560 multiletter control sequences out of 15000+600000
  9123 words of font info for 72 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
