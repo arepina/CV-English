@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.20)  8 NOV 2018 22:06
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.20)  14 NOV 2018 12:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -745,14 +745,14 @@ LaTeX Info: Redefining \selectfont on input line 64.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
-* v-part:(T,H,B)=(28.45274pt, 759.6886pt, 56.9055pt)
+* v-part:(T,H,B)=(14.22636pt, 773.91498pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=512.14963pt
-* \textheight=759.6886pt
+* \textheight=773.91498pt
 * \oddsidemargin=-29.59087pt
 * \evensidemargin=-29.59087pt
-* \topmargin=-80.81725pt
+* \topmargin=-95.04362pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -837,11 +837,7 @@ LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 7.6784pt on input line 14.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 5.45381pt on input line 14.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <9> not avai
-lable
-(Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 14.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <7> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
 ut line 14.
@@ -870,8 +866,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
 ) (./cv-sections/skills.tex
-Overfull \hbox (130.76028pt too wide) in alignment at lines 11--35
+Overfull \hbox (80.41428pt too wide) in alignment at lines 11--35
 [] [] 
  []
 
@@ -918,11 +919,11 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 81.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 81.
  ) 
 Here is how much of TeX's memory you used:
- 28435 strings out of 493591
- 490569 string characters out of 6143545
- 623692 words of memory out of 5000000
- 31560 multiletter control sequences out of 15000+600000
- 9123 words of font info for 72 fonts, out of 8000000 for 9000
+ 28428 strings out of 493591
+ 490235 string characters out of 6143545
+ 623687 words of memory out of 5000000
+ 31556 multiletter control sequences out of 15000+600000
+ 9099 words of font info for 69 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  53i,11n,68p,10385b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
 
