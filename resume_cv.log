@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.20)  14 NOV 2018 12:09
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.12.20)  15 JAN 2019 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -703,38 +703,95 @@ tly
 \g__fontspec_family_Roboto_int=\count146
 \g__fontspec_family_SourceSansPro_int=\count147
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
+\c@tracingmulticols=\count148
+\mult@box=\box44
+\multicol@leftmargin=\dimen157
+\c@unbalance=\count149
+\c@collectmore=\count150
+\doublecol@number=\count151
+\multicoltolerance=\count152
+\multicolpretolerance=\count153
+\full@width=\dimen158
+\page@free=\dimen159
+\premulticols=\dimen160
+\postmulticols=\dimen161
+\multicolsep=\skip79
+\multicolbaselineskip=\skip80
+\partial@page=\box45
+\last@line=\box46
+\maxbalancingoverflow=\dimen162
+\mult@rightbox=\box47
+\mult@grightbox=\box48
+\mult@gfirstbox=\box49
+\mult@firstbox=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\c@columnbadness=\count154
+\c@finalcolumnbadness=\count155
+\last@try=\dimen163
+\multicolovershoot=\dimen164
+\multicolundershoot=\dimen165
+\mult@nat@firstbox=\box68
+\colbreak@box=\box69
+\mc@col@check@num=\count156
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip81
+\fb@frw=\dimen166
+\fb@frh=\dimen167
+\FrameRule=\dimen168
+\FrameSep=\dimen169
+)
 (./resume_cv.aux)
 \openout1 = `resume_cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 64.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 66.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 66.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 64.
+LaTeX Info: Redefining \selectfont on input line 66.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -773,52 +830,52 @@ LaTeX Info: Redefining \selectfont on input line 64.
 *** you should *not* be loading the inputenc package
 *** XeTeX expects the source to be in UTF8 encoding
 *** some features of other encodings may conflict, resulting in poor output.
-\g__fontspec_family_latinmodern-math.otf_int=\count148
+\g__fontspec_family_latinmodern-math.otf_int=\count157
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 64.
+(Font)              `operators' in the math version `normal' on input line 66.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/latinmodern-math.otf(0)/m/n on inpu
-t line 64.
+t line 66.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 64.
+(Font)              `operators' in the math version `bold' on input line 66.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/latinmodern-math.otf(0)/bx/n on in
-put line 64.
+put line 66.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 64.
+(Font)              `symbols' in the math version `normal' on input line 66.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> EU1/latinmodern-math.otf(1)/m/n on inp
-ut line 64.
+ut line 66.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 64.
+(Font)              `symbols' in the math version `bold' on input line 66.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> EU1/latinmodern-math.otf(1)/bx/n on in
-put line 64.
+put line 66.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 6
-4.
+6.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/m/n on inp
-ut line 64.
+ut line 66.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 64.
+(Font)              `largesymbols' in the math version `bold' on input line 66.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/bx/n on in
-put line 64.
-\AtBeginShipoutBox=\box44
-Package hyperref Info: Link coloring OFF on input line 64.
+put line 66.
+\AtBeginShipoutBox=\box70
+Package hyperref Info: Link coloring OFF on input line 66.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count149
+\c@section@level=\count158
 )
-LaTeX Info: Redefining \ref on input line 64.
-LaTeX Info: Redefining \pageref on input line 64.
-LaTeX Info: Redefining \nameref on input line 64.
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \nameref on input line 66.
 
 (./resume_cv.out) (./resume_cv.out)
 \@outlinefile=\write3
@@ -872,59 +929,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
  []
 
 ) (./cv-sections/skills.tex
-Overfull \hbox (80.41428pt too wide) in alignment at lines 11--35
-[] [] 
- []
 
-) (./cv-sections/experience.tex
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+! LaTeX Error: There's no line here to end.
 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ^^I\\{
+           \fontsize{7pt}{1em}\bodyfont\bfseries\color{darktext}Programming}...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+! LaTeX Error: There's no line here to end.
 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ^^I\\{
+           \fontsize{7pt}{1em}\bodyfont\bfseries\color{darktext}OS \& Mobile...
 
-) (./cv-sections/extracurricular.tex
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (./cv-sections/experience.tex) (./cv-sections/extracurricular.tex)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 135.
+(babel)             in language  on input line 83.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 135.
+(babel)             in language  on input line 83.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 135.
+(babel)             in language  on input line 83.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 135.
+(babel)             in language  on input line 83.
  [1
 
 ]
-Overfull \hbox (2.43091pt too wide) in paragraph at lines 176--187
-  [] 
- []
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
 
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 81.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 81.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 81.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 81.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
- (./resume_cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 81.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 81.
+(./resume_cv.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 83.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 83.
  ) 
 Here is how much of TeX's memory you used:
- 28428 strings out of 493591
- 490235 string characters out of 6143545
- 623687 words of memory out of 5000000
- 31556 multiletter control sequences out of 15000+600000
+ 28580 strings out of 493591
+ 492382 string characters out of 6143545
+ 627560 words of memory out of 5000000
+ 31701 multiletter control sequences out of 15000+600000
  9099 words of font info for 69 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 53i,11n,68p,10385b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,11n,68p,10385b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume_cv.pdf (2 pages).
+Output written on resume_cv.pdf (1 page).

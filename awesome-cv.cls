@@ -497,7 +497,7 @@
   \phantomsection{}
   \sectionstyle{#1}
   \color{gray}\vhrulefill{0.9pt}
-  \par\nobreak\addvspace{-1ex} %отступ от названия параграфа 1 пункта из списка
+  \par\nobreak\addvspace{-.2cm} %отступ от названия параграфа 1 пункта из списка
 }
 
 % Define a subsection for CV
@@ -532,7 +532,7 @@
       {\entrypositionstyle{#1} & \entrydatestyle{#4} \\}
       {\entrytitlestyle{#2} & \entrylocationstyle{#3} \\
       \entrypositionstyle{#1} & \entrydatestyle{#4} \\}
-    \multicolumn{2}{L{\textwidth}}{\descriptionstyle{#5}} \\
+  %  \multicolumn{2}{L{\textwidth}}{\descriptionstyle{#5}} \\
   \end{tabular*}\vspace{-3mm}
 }
 
