@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.7.5)  7 SEP 2019 12:35
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.7.5)  22 JAN 2020 18:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -800,10 +800,10 @@ Package rerunfilecheck Info: File `resume_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
- 27838 strings out of 492916
- 503054 string characters out of 6133346
- 745389 words of memory out of 5000000
- 31634 multiletter control sequences out of 15000+600000
+ 27833 strings out of 492916
+ 502990 string characters out of 6133346
+ 744389 words of memory out of 5000000
+ 31629 multiletter control sequences out of 15000+600000
  534805 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  54i,11n,109p,800b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
