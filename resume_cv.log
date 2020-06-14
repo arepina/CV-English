@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.7.5)  27 MAR 2020 15:23
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.7.5)  14 JUN 2020 20:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -751,38 +751,38 @@ LaTeX Info: Redefining \nameref on input line 66.
 
  (./cv-sections/education.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95116pt on input line 14.
+(Font)              scaled to size 10.95116pt on input line 15.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.6658pt on input line 14.
+(Font)              scaled to size 7.6658pt on input line 15.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.47559pt on input line 14.
+(Font)              scaled to size 5.47559pt on input line 15.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 14.
+(Font)              scaled to size 10.94882pt on input line 15.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 14.
+(Font)              scaled to size 7.66417pt on input line 15.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 14.
+(Font)              scaled to size 5.47441pt on input line 15.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <7> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 14.
+t line 15.
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
 
@@ -802,7 +802,7 @@ Package rerunfilecheck Info: File `resume_cv.out' has not changed.
 Here is how much of TeX's memory you used:
  27833 strings out of 492916
  502990 string characters out of 6133346
- 744389 words of memory out of 5000000
+ 745389 words of memory out of 5000000
  31629 multiletter control sequences out of 15000+600000
  534805 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
