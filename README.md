@@ -11,3 +11,16 @@ For a comprehensive look at my projects and technical background, please visit m
 
 ## 🛠️ How to Compile Locally
 This CV is built using the [Awesome-CV](https://github.com/posquit0/Awesome-CV) LaTeX template. To compile the PDF yourself, you will need a TeX distribution (like TeX Live or MiKTeX) installed.
+
+
+Compile from the repository root with XeLaTeX:
+
+```sh
+xelatex -interaction=nonstopmode -halt-on-error resume_cv.tex
+xelatex -interaction=nonstopmode -halt-on-error resume_cv.tex
+```
+
+The local class is tailored to this CV. `\cventry` accepts four arguments:
+body, title, location, and dates. `\cventryeducation` uses the same argument order
+with education-specific spacing. Pass a complete URL, including `https://`, to
+`\homepage`.
