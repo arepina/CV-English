@@ -393,6 +393,12 @@
   \par\nobreak\addvspace{-.2cm} %отступ от названия параграфа 1 пункта из списка
 }
 
+\newcommand*{\entrymetastyle}[2]{%
+  \ifempty{#1}
+    {\entrydatestyle{#2}}
+    {\entrylocationstyle{#1}\ifempty{#2}{}{\enskip\textperiodcentered\enskip\entrydatestyle{#2}}}%
+}
+
 % Define an environment for cventry
 \newenvironment{cventries}{%
   \begin{center}
@@ -406,8 +412,8 @@
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
     \ifempty{#2#3}
       {\entrypositionstyle{#1} & \entrydatestyle{#4} \\}
-      {\entrytitlestyle{#2} & \entrylocationstyle{#3} \\
-      \entrypositionstyle{#1} & \entrydatestyle{#4} \\}
+      {\entrytitlestyle{#2} & \entrymetastyle{#3}{#4} \\
+      \entrypositionstyle{#1} & \\}
   \end{tabular*}\vspace{-3mm}
 }
 
@@ -417,7 +423,7 @@
 	\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
 		  \ifempty{#2#3}
 		{\entrypositionstyle{#1} & \entrydatestyle{#4} \\}
-		{\entrytitlestyle{#2} & \entrylocationstyle{#3} \\
-			\entrypositionstyle{#1} & \entrydatestyle{#4} \\}\\
+		{\entrytitlestyle{#2} & \entrymetastyle{#3}{#4} \\
+			\entrypositionstyle{#1} & \\}\\
 	\end{tabular*}\vspace{-7.5mm}
 }
