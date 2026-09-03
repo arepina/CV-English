@@ -390,37 +390,39 @@
   \phantomsection{}
   \sectionstyle{#1}
   \color{gray}\vhrulefill{0.9pt}
-  \par\nobreak\addvspace{-.2cm} %отступ от названия параграфа 1 пункта из списка
+  \par\nobreak\vspace{-10.5pt}
 }
 
 \newcommand*{\entrymetastyle}[2]{%
   \ifempty{#1}
     {\entrydatestyle{#2}}
-    {\entrylocationstyle{#1}\ifempty{#2}{}{\enskip\textperiodcentered\enskip\entrydatestyle{#2}}}%
+    {\entrylocationstyle{#1}\ifempty{#2}{}{\quad\entrydatestyle{#2}}}%
 }
 
 % Define an environment for cventry
 \newenvironment{cventries}{%
-  \begin{center}
+  \par\begingroup\centering
 }{%
-  \end{center}
+  \par\endgroup
 }
 % Define an entry of cv information
 % Usage: \cventry{<position>}{<title>}{<location>}{<date>}
 \newcommand*{\cventry}[4]{%
   \setlength\tabcolsep{0pt}
-  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
+  \begin{tabular*}{\textwidth}[t]{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
     \ifempty{#2#3}
       {\entrypositionstyle{#1} & \entrydatestyle{#4} \\}
-      {\entrytitlestyle{#2} & \entrymetastyle{#3}{#4} \\
-      \entrypositionstyle{#1} & \\}
-  \end{tabular*}\vspace{-3mm}
+      {\ifempty{#1}
+        {\entrytitlestyle{#2} & \entrymetastyle{#3}{#4} \\}
+        {\entrytitlestyle{#2} & \entrymetastyle{#3}{#4} \\
+        \entrypositionstyle{#1} & \\}}
+  \end{tabular*}\ifempty{#1}{\vspace{-6mm}}{\vspace{-4mm}}
 }
 
 \newcommand*{\cventryeducation}[4]{%
 	 \setlength\tabcolsep{0pt}
 	\setlength{\extrarowheight}{0pt}
-	\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
+	\begin{tabular*}{\textwidth}[t]{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
 		  \ifempty{#2#3}
 		{\entrypositionstyle{#1} & \entrydatestyle{#4} \\}
 		{\entrytitlestyle{#2} & \entrymetastyle{#3}{#4} \\
